@@ -21,3 +21,8 @@ Then, in Vim run,
 
 ## Yabai
 
+## Vim + Tex
+
+Follow instructions here:
+https://web.ma.utexas.edu/users/vandyke/notes/getting_started_latex_vim/getting_started.pdf
+
