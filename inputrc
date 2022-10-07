@@ -1,0 +1,9 @@
+set revert-all-at-newline on
+#set keymap vi-insert
+#"jk": "\e"
+"\C-t": unix-filename-rubout
+"\C-x": yank-nth-arg
+"\C-.": yank-last-arg
+"\C-f": shell-forward-word
+"\C-d": kill-word
+"\C-s": backward-word
