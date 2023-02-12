@@ -26,3 +26,15 @@ Download .vimrc and place in home directory. Then, in Vim run,
 Follow instructions here:
 https://web.ma.utexas.edu/users/vandyke/notes/getting_started_latex_vim/getting_started.pdf
 
+## Vim Common Commands
+
+Yank to system clipboard register
+```
+"+y
+```
+
+Edit Command Line
+```
+Ctrl+f
+```
+
