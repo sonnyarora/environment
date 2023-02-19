@@ -44,3 +44,8 @@ Create a new file in directory of current open file:
 :w
 ```
 
+Refresh NERDTree:
+```
+R
+```
+
