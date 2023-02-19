@@ -38,3 +38,9 @@ Edit Command Line
 Ctrl+f
 ```
 
+Create a new file in directory of current open file:
+```
+:e %h/filename
+:w
+```
+
