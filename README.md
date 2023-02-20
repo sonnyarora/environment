@@ -54,8 +54,10 @@ Redo last command:
 .
 ```
 
-Close window without removing buffer:
+Window operations:
 ```
-Ctrl+W c
+Ctrl+w c # Close without deleting buffer
+Ctrl+w v # vertical split
+Ctrl+w h # horizontal split
 ```
 
