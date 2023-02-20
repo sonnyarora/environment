@@ -61,3 +61,8 @@ Ctrl+w v # vertical split
 Ctrl+w s # horizontal split
 ```
 
+jump to matching ({[]}):
+```
+%
+```
+
