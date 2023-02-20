@@ -66,3 +66,10 @@ jump to matching ({[]}):
 %
 ```
 
+Cut and paste lines:
+```
+V # then select lines
+d or y # delete or yank
+```
+
+Marks:
