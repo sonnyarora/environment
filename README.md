@@ -49,3 +49,8 @@ Refresh NERDTree:
 R
 ```
 
+Redo last command:
+```
+.
+```
+
