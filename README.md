@@ -54,3 +54,8 @@ Redo last command:
 .
 ```
 
+Close window without removing buffer:
+```
+Ctrl+W c
+```
+
