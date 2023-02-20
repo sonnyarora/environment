@@ -58,5 +58,6 @@ Window operations:
 ```
 Ctrl+w c # Close without deleting buffer
 Ctrl+w v # vertical split
+Ctrl+w s # horizontal split
 ```
 
