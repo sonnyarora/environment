@@ -72,6 +72,11 @@ V # then select lines
 d or y # delete or yank
 ```
 
+Go to end of visual selection:
+```
+`>
+```
+
 Surround (if with vim surround):
 ```
 ysiw[surround-with] # if vim surround installed. (it is with vscode.vim)
