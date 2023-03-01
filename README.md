@@ -59,6 +59,7 @@ Window operations:
 Ctrl+w c # Close without deleting buffer
 Ctrl+w v # vertical split
 Ctrl+w s # horizontal split
+Ctrl+w = # Resize windows to equal proportions. Useful after resizing terminal window
 ```
 
 jump to matching ({[]}):
