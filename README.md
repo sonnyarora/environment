@@ -83,7 +83,7 @@ Go to end of visual selection:
 `>
 ```
 
-Go to end of line and then enter insert mode:
+Go to end of line and then enter append mode:
 ```
 A
 ```
