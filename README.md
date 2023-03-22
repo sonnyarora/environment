@@ -54,6 +54,11 @@ Redo last command:
 .
 ```
 
+Redo last movement:
+```
+;
+```
+
 Window operations:
 ```
 Ctrl+w c # Close without deleting buffer
