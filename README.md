@@ -83,6 +83,11 @@ Go to end of visual selection:
 `>
 ```
 
+Go to end of line and then enter insert mode:
+```
+A
+```
+
 Surround (if with vim surround):
 ```
 ysiw[surround-with] # if vim surround installed. (it is with vscode.vim)
