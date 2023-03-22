@@ -88,9 +88,17 @@ Go to end of line and then enter insert mode:
 A
 ```
 
+c vs s vs r:
+```
+c # requires some movement, eg. ciw removes word under cursor and places you in insert mode
+s # removes character and places into insert mode
+r # changes and then enter command mode, e.g. r<character> changes character under cursor to <character> and enters command mode
+```
+
 Surround (if with vim surround):
 ```
 ysiw[surround-with] # if vim surround installed. (it is with vscode.vim)
+S[surround-with] # to surround visual selection
 ```
 
 Marks:
