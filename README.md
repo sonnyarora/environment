@@ -102,3 +102,12 @@ S[surround-with] # to surround visual selection
 ```
 
 Marks:
+
+## VsCode
+
+# LaTeX Workshop
+
+Go to line in tex file from pdf:
+```
+Cmd+Click # After selecting text in text selection tool in pdf
+```
